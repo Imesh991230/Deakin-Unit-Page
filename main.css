@@ -15,11 +15,13 @@ h1 {
  }
  div { background-color: darkcyan;
   text-align: right;
-<<<<<<< HEAD
   background-color: blue; 
  }
-=======
- }
+ 
+ 
+
+
+ 
 
  th, td {
   padding: 8px;
@@ -30,4 +32,3 @@ h1 {
  tr:nth-child(odd) {background-color: #f2f2f2;}
 
 
->>>>>>> 7168efef90ba8b1a6d8ad46653ed021a89f685d2
